@@ -12,8 +12,6 @@ class Largest:
         else:
             print("Largest Number:", self.c)
 
-# Create an object
-num = Largest(10, 25, 15)
 
-# Find the largest number
+num = Largest(10, 25, 15)
 num.find_largest()
